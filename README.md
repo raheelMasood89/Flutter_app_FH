@@ -1,6 +1,10 @@
 # assignment_fh_flutter_app
 
-A new Flutter application.
+FLUTTER APP - Consisiting of 4 pages 
+1) Welcome with Touch Id.
+2) Login Page.
+3) List of Customer Page.
+4) Customer details with Charts.
 
 ## Getting Started
 
