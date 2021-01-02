@@ -9,6 +9,8 @@ class CustomerModel {
   final String mAssetPath;
   final String mOtherBankCreditCards;
   final Map<String, double> mDataMap;
+  final String mLastTransaction;
+  final String mNickName;
 
   List<Color> colorList = [
     Colors.red,
@@ -25,5 +27,7 @@ class CustomerModel {
       this.mEMIAmount,
       this.mOtherBankCreditCards,
       this.mAssetPath,
-      this.mDataMap);
+      this.mDataMap,
+      this.mLastTransaction,
+      this.mNickName);
 }

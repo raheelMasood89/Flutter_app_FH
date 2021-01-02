@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/raheelshah/Documents/assignment_fh_flutter_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/raheelshah/Documents/GitHub/Flutter_app_FH/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/raheelshah/Documents/assignment_fh_flutter_app/build/local_auth/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,144,189,237,285,331,377,425",
-                        "endLines": "2,3,4,5,6,7,8,9,15",
-                        "endColumns": "44,43,44,47,47,45,45,47,10",
-                        "endOffsets": "95,139,184,232,280,326,372,420,720"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,9,10,11,19,20,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,144,453,501,549,1083,1129,5049",
-                        "endLines": "2,3,4,9,10,11,19,20,91",
-                        "endColumns": "44,43,44,47,47,45,45,47,10",
-                        "endOffsets": "95,139,184,496,544,590,1124,1172,5344"
-                    }
-                },
                 {
                     "source": "/Users/raheelshah/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values/values.xml",
                     "from": {
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "/Users/raheelshah/Documents/assignment_fh_flutter_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/raheelshah/Documents/GitHub/Flutter_app_FH/build/local_auth/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,189,237,285,331,377,425",
+                        "endLines": "2,3,4,5,6,7,8,9,15",
+                        "endColumns": "44,43,44,47,47,45,45,47,10",
+                        "endOffsets": "95,139,184,232,280,326,372,420,720"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9,10,11,19,20,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,453,501,549,1083,1129,5049",
+                        "endLines": "2,3,4,9,10,11,19,20,91",
+                        "endColumns": "44,43,44,47,47,45,45,47,10",
+                        "endOffsets": "95,139,184,496,544,590,1124,1172,5344"
+                    }
+                },
+                {
+                    "source": "/Users/raheelshah/Documents/GitHub/Flutter_app_FH/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

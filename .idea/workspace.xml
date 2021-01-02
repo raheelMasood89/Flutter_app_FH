@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="189ac434-e9d1-4983-87db-24edf0dcf399" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/detail/component/Body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/detail/component/Body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/home/component/Customer_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home/component/Customer_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/home/component/Customer_list_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home/component/Customer_list_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/home/model/CustomerModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home/model/CustomerModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mWpFPSNlewvBOtxZ0F7fLUXoty" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icons" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/icons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="189ac434-e9d1-4983-87db-24edf0dcf399" name="Default Changelist" comment="" />
+      <created>1609619096603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609619096603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609627763226">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="698" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.995@0.23.1920.995" timestamp="1609627763226" />
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom" timestamp="1609620643327">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1609620643327" />
+    <state width="1878" height="268" key="GridCell.Tab.0.center" timestamp="1609620643327">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1609620643327" />
+    <state width="1878" height="268" key="GridCell.Tab.0.left" timestamp="1609620643327">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1609620643327" />
+    <state width="1878" height="268" key="GridCell.Tab.0.right" timestamp="1609620643327">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1609620643327" />
+    <state x="100" y="123" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609627894112">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="100" y="123" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.995@0.23.1920.995" timestamp="1609627894112" />
+    <state x="265" y="239" width="1457" height="782" key="dock-window-1" timestamp="1609627777311">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="265" y="239" width="1457" height="782" key="dock-window-1/0.23.1920.995@0.23.1920.995" timestamp="1609627777311" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1609629948186">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1920.995@0.23.1920.995" timestamp="1609629948186" />
+  </component>
+</project>

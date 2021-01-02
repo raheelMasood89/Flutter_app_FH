@@ -4,6 +4,8 @@ import 'package:assignment_fh_flutter_app/utils/Constants.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'DetailCard.dart';
+
 class Body extends StatelessWidget {
   final CustomerModel mCustomerModel;
 
@@ -34,7 +36,7 @@ class Body extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
           iconTheme: IconThemeData(
-            color: Colors.blue, //change your color here
+            color: Colors.white, //change your color here
           ),
           title: Text(mCustomerModel.mCustomerName,
               style: TextStyle(color: Colors.white)),
@@ -45,7 +47,11 @@ class Body extends StatelessWidget {
             // child: ChartPage(customer),
             child: ChartData(mCustomerModel),
           ),
-          _title(context, 'Balance ', mCustomerModel.mLiabilityAmount),
+
+          detailCard(
+              context: context,
+              mCustomerModel: mCustomerModel),
+          /*_title(context, 'Balance ', mCustomerModel.mLiabilityAmount),
           SizedBox(
             height: 20.0,
           ),
@@ -60,7 +66,7 @@ class Body extends StatelessWidget {
           _title(context, 'Other Cards ', mCustomerModel.mOtherBankCreditCards),
           SizedBox(
             height: 20.0,
-          ),
+          ),*/
         ],
       ),
     );

@@ -50,15 +50,15 @@ class CustomerList extends StatefulWidget {
 
   List<CustomerModel> mCustomerList = [
     CustomerModel("1", "Robert", "20000 AED", "1000 AED", "2", "assets/p2.jpg",
-        mCustomer1),
+        mCustomer1, "8 AED", "Martin 1989"),
     CustomerModel(
-        "1", "Alex", "27000 AED", "1200 AED", "1", "assets/p3.jpg", mCustomer2),
+        "1", "Alex", "27000 AED", "1200 AED", "1", "assets/p3.jpg", mCustomer2,  "2 AED", "Alex 1996"),
     CustomerModel("1", "Peter", "23000 AED", "1500 AED", "3", "assets/p4.jpg",
-        mCustomer3),
+        mCustomer3,  "4 AED", "Peter 1998"),
     CustomerModel(
-        "1", "Ali", "22000 AED", "1400 AED", "1", "assets/p5.jpg", mCustomer4),
+        "1", "Ali", "22000 AED", "1400 AED", "1", "assets/p5.jpg", mCustomer4,  "15 AED", "Ali 1988"),
     CustomerModel("1", "Akhbar", "29000 AED", "1000 AED", "2", "assets/p1.jpg",
-        mCustomer5)
+        mCustomer5,  "10 AED", "Akber 2000")
   ];
 
   @override
@@ -112,14 +112,14 @@ class _CustomerListState extends State<CustomerList> {
           text: 'Finance',
           style: GoogleFonts.portLligatSans(
             textStyle: Theme.of(context).textTheme.display1,
-            fontSize: 50,
+            fontSize: 30,
             fontWeight: FontWeight.w700,
             color: kPrimaryColor,
           ),
           children: [
             TextSpan(
               text: 'House',
-              style: TextStyle(color: Colors.black, fontSize: 30),
+              style: TextStyle(color: Colors.black, fontSize: 20),
             ),
           ]),
     );
